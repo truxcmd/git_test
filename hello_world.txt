@@ -1,1 +1,1 @@
-I'm adding my first test to this hello_world file.
+I'm adding my first text to this hello_world file.
